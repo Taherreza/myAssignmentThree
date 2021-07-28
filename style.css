@@ -1,0 +1,51 @@
+    /* Custom css */
+    /* Poppins font use */
+    
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .top {
+        background-color: #264653;
+    }
+    
+    .top-content p {
+        Size: 14px;
+        color: #E0E0E0;
+    }
+    
+    .top-btn {
+        background-color: #E76F51;
+        color: #fff;
+        border: 0;
+        padding: 10px 35px;
+    }
+    /* featured start */
+    
+    .featured-top p {
+        color: #E76F51;
+    }
+    
+    .grayscal {
+        filter: grayscale(100%);
+    }
+    
+    .grayscal2 {
+        filter: grayscale(70%);
+    }
+    /* happy-clients */
+    
+    .happy-clients h1>span {
+        color: coral;
+        margin-top: 100px;
+    }
+    
+    .happy-star i {
+        color: #E77C40;
+    }
+    /* Frequently Asked Questions */
+    
+    .freequently h1>span {
+        color: coral;
+        margin-top: 100px;
+    }
