@@ -21,6 +21,9 @@
         padding: 10px 35px;
     }
     /* featured start */
+    /* .featured {
+        margin-bottom: 200px;
+    } */
     
     .featured-top p {
         color: #E76F51;
@@ -35,9 +38,12 @@
     }
     /* happy-clients */
     
+    .happy-clients {
+        margin-top: 150px;
+    }
+    
     .happy-clients h1>span {
         color: coral;
-        margin-top: 100px;
     }
     
     .happy-star i {
@@ -45,9 +51,12 @@
     }
     /* Frequently Asked Questions */
     
+    .freequently {
+        margin-top: 150px;
+    }
+    
     .freequently h1>span {
         color: coral;
-        margin-top: 100px;
     }
     /* financing start */
     
@@ -58,4 +67,12 @@
     .financing-content h1>span {
         color: coral;
         margin-top: 100px;
+    }
+    
+    .accordion-item {
+        margin-bottom: 10px;
+    }
+    
+    .accordion-button {
+        border: 2px solid #ddd;
     }
