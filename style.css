@@ -49,3 +49,13 @@
         color: coral;
         margin-top: 100px;
     }
+    /* financing start */
+    
+    .financing {
+        background-color: #264653;
+    }
+    
+    .financing-content h1>span {
+        color: coral;
+        margin-top: 100px;
+    }
